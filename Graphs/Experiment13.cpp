@@ -15,6 +15,7 @@
 			}
 		}
 	}
+
 	void insertedge(int n,int a[][n1])
 	{
 		int b,c;
