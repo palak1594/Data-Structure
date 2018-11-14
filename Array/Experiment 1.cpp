@@ -60,6 +60,7 @@ while(ch!=0)
         break;
     }
     cout<<"\nEnter choice again: ";
+}
     cin>>ch;
 }
 }
